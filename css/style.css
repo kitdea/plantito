@@ -3,3 +3,7 @@
   height: 10px;
   border-radius: 100%;
 }
+
+.nav-item a {
+  font-size: 2rem;
+}
