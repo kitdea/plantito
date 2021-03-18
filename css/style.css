@@ -36,4 +36,9 @@ body, html {
   .w-75 {
     margin: 0 auto !important;
   }
+
+  .col, .col-lg-2 {
+    margin: 0 auto !important;
+    justify-content: center;
+  }
 }
