@@ -2,9 +2,11 @@
 // Option A: Include all of Bootstrap
 
 @import "../node_modules/bootstrap/scss/bootstrap";
-@import "container";
-// Add custom code after this
 
+// Add custom code after this
+body{
+  background-color: red;
+}
 
 .carousel-item {
   background-position: center;
